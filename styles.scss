@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans';
+    background-color: pink;
+}
+
+.slider {
+    width: 66%;
+    &::before {
+        position: absolute;
+        content: '';
+        z-index: -1;
+
+    }
+}
