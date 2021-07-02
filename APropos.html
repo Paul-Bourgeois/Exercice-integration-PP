@@ -22,12 +22,22 @@
     <div class="container-fluid">
       <!-- La ligne pour le logo et le header-->
       <div class="row">
-        <div class="col-1"></div>
-        <div class="col-2">
-          <img src="/ressources/slider cigogne.png" alt="Ici Votre Logo">
+        <div class="col-2 offset-1">
+          <img class="logo" src="./ressources/header_logo.svg" alt="Ici Votre Logo">
         </div>
-        <div class="col-2"></div>
-        <div class="col header">Ici un menu</div>
+        <div class="col offset-md-2 header">
+          <nav class="dropdown">
+            <button class="dropbutton">A propos</button>
+            <div class="dropdown__content">
+              <a href="#">La société</a>
+              <a href="#">L'hisotire</a>
+              <a href="#">Les valeurs</a>
+              <a href="#">L'équipe</a>
+            </div>
+            
+            <button>Appelez-nous</button>
+          </nav>
+        </div>
       </div>
 
       <!-- La ligne pour l'image de fond et le slider-->
@@ -37,9 +47,12 @@
           <div class="row">
             <div class="col-2"></div>
             <div class="col-5">
-              (Texte ici) Tu autem, Fanni, quod mihi tantum tribui dicis <br> quantum ego nec adgnosco nec postulo
+              <p>
+                (Texte ici) Tu autem, Fanni, quod mihi tantum 
+                tribui dicis quantum ego nec adgnosco nec postulo
+              </p>
             </div>
-            <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+            <div class="row">
               <div class="col-2"></div>
               <div class="col-1">
                 <button disabled="disabled">En savoir plus</button>
@@ -51,9 +64,9 @@
     </div>
 
     <!-- Conteneur non fluid pour le reste de la page sauf footer-->
-    <div class="container  !direction !spacing">
+    <div class="container">
       <!-- Ligne de la section avec le Titre H1-->
-      <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+      <div class="row ">
         <!-- attention cette colonne doit passer par-dessus le background cigogne-->
         <div class="col-7">
             TITRE H1
@@ -65,7 +78,7 @@
       </div>
 
 
-      <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+      <div class="row ">
         <!-- Colonne de 6 normale mais il faut un gutter spéciale l'autre colonne-->
         <div class="col-6">
             Nos actualités
@@ -78,7 +91,7 @@
       </div>
  
       <!-- Attention au fond particulier : image + légère pente sur le haut du background-->
-      <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+      <div class="row">
         <div class="col-5">
             TITRE H2
         </div>
@@ -92,12 +105,12 @@
     <!-- conteneur des références et du footer-->
     <div class="container-fluid">
       <!-- Ligne pour les références-->
-      <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+      <div class="row">
         Nos références !!!
       </div>
 
       <!-- Ligne pour le Footer  attention background bizarre-->
-      <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+      <div class="row">
         <div class="col-1 "></div>
         <div class="col-2">
             Première Place
@@ -106,10 +119,10 @@
           Piti menu A propos, contact mentions légales ...
         </div>
         <div class="col-4 ">
-            <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+            <div class="row">
               LOGO
             </div>
-            <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+            <div class="row">
               slogan
             </div>
         </div>
@@ -117,7 +130,7 @@
             Le petit mot de la fin
         </div>
 
-        <div class="row ${1| ,row-cols-2,row-cols-3, auto,justify-content-md-center,|}">
+        <div class="row">
           Copyright
         </div>
       </div>
