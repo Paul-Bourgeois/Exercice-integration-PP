@@ -1,4 +1,4 @@
-Voici le maigre résultat de mon travail.
+Voici les résultat de cet exercice, pour moi.
 
 Je suis particulièrement déçu de ne pas avoir réussi à gérer correctement cet exercice. Mais je peux dire que je l'ai terminé. Dans le dossier "deprecated" vous trouverez ce que j'avais commencé par faire. C'est à dire : de l'HTML, du SCSS et du javascript avec juste VS Code pour écrire mon code. J'y ai passé du temps, trop de temps et je n'ai quasiment pas avancé. Mais mon CSS était plutôt bien de mon point de vue.
 
