@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" width="100%" height="100%" viewBox="0 0 210 140" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-980,-3372.8)">
+        <g transform="matrix(1,0,0,1,-2011,0)">
+            <g transform="matrix(1,0,0,1.72633,1828.75,16)">
+                <g transform="matrix(1.00239,0,0,0.678107,946.737,-338.72)">
+                    <path d="M424.5,3384.09C424.5,3374.66 415.56,3367 404.548,3367L234.952,3367C223.94,3367 215,3374.66 215,3384.09L215,3469.51C215,3478.94 223.94,3486.59 234.952,3486.59L404.548,3486.59C415.56,3486.59 424.5,3478.94 424.5,3469.51L424.5,3384.09Z" style="fill:white;fill-opacity:0;"></path>
+                    <path d="M424.5,3384.09C424.5,3374.66 415.56,3367 404.548,3367L234.952,3367C223.94,3367 215,3374.66 215,3384.09L215,3469.51C215,3478.94 223.94,3486.59 234.952,3486.59L404.548,3486.59C415.56,3486.59 424.5,3478.94 424.5,3469.51L424.5,3384.09ZM422.505,3384.09L422.505,3469.51C422.505,3477.99 414.458,3484.88 404.548,3484.88L234.952,3484.88C225.042,3484.88 216.995,3477.99 216.995,3469.51C216.995,3469.51 216.995,3384.09 216.995,3384.09C216.995,3375.6 225.042,3368.71 234.952,3368.71L404.548,3368.71C414.458,3368.71 422.505,3375.6 422.505,3384.09Z" style="fill:rgb(27,82,146);fill-opacity:0;"></path>
+                </g>
+                <g transform="matrix(1,0,0,1,923.269,67.5379)">
+                    <g transform="matrix(0.945171,0.189174,-0.326577,0.547502,1096.42,36.8723)">
+                        <rect x="316" y="3280" width="66.461" height="68" style="fill:rgb(246,246,246);"></rect>
+                    </g>
+                    <g transform="matrix(0.968949,0.14323,-0.247262,0.561276,825.271,7.27132)">
+                        <rect x="316" y="3280" width="66.461" height="68" style="fill:rgb(241,139,135);fill-opacity:0.24;"></rect>
+                    </g>
+                    <g transform="matrix(1,0,0,0.579262,0.078125,9.2682)">
+                        <text x="329.914px" y="3288.11px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(27,82,146);">Un</text>
+                    </g>
+                    <g transform="matrix(1,0,0,0.579262,7,18.413)">
+                        <text x="329.914px" y="3288.11px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(27,82,146);">Super</text>
+                    </g>
+                    <g transform="matrix(1,0,0,0.579262,0,28.7764)">
+                        <text x="329.914px" y="3288.11px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:16px;fill:rgb(27,82,146);">Logo</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
